@@ -1,5 +1,5 @@
 # ZeroWaste
-An online shop with zero waste products
+An online shop for "zero waste" products
 
 Client: HTML, CSS, JavaScript, jQuery, Bootstrap
 
